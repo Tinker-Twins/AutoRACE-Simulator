@@ -1,7 +1,7 @@
 # AutoRACE Simulator
 ### A Simulation System for Implementing and Testing Autonomous Racing Algorithms
 
-![Title Image](AutoRACE Simulator.png)
+![Title Image](AutoRACE_Simulator.png)
 
 ## SETUP
 
