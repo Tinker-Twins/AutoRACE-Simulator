@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 2e162fca90cacdb4ab1147f8693b56d8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Badges
+    100002: Body
+    100004: Brake Front Left
+    100006: Brake Front Right
+    100008: Brake Lights
+    100010: Brake Rear Left
+    100012: Brake Rear Right
+    100014: Bumper Front
+    100016: Bumper Rear
+    100018: Dashboard Dial Covers
+    100020: Dashboard Dials
+    100022: Dashboard Fuel Indicator
+    100024: Dashboard RPM Meter Pointer
+    100026: Dashboard Speedometer Pointer
+    100028: Door Left
+    100030: Door Right
+    100032: Grill
+    100034: Headlight Covers
+    100036: Headlight Units
+    100038: Headlights
+    100040: Hood
+    100042: Interior
+    100044: //RootNode
+    100046: Seats
+    100048: Spoiler
+    100050: Steering Wheel
+    100052: Wheel Front Left
+    100054: Wheel Front Right
+    100056: Wheel Rear Left
+    100058: Wheel Rear Right
+    100060: Windscreen
+    100062: Wing Left
+    100064: Wing Right
+    100066: Wiper Left
+    100068: Wiper Right
+    400000: Badges
+    400002: Body
+    400004: Brake Front Left
+    400006: Brake Front Right
+    400008: Brake Lights
+    400010: Brake Rear Left
+    400012: Brake Rear Right
+    400014: Bumper Front
+    400016: Bumper Rear
+    400018: Dashboard Dial Covers
+    400020: Dashboard Dials
+    400022: Dashboard Fuel Indicator
+    400024: Dashboard RPM Meter Pointer
+    400026: Dashboard Speedometer Pointer
+    400028: Door Left
+    400030: Door Right
+    400032: Grill
+    400034: Headlight Covers
+    400036: Headlight Units
+    400038: Headlights
+    400040: Hood
+    400042: Interior
+    400044: //RootNode
+    400046: Seats
+    400048: Spoiler
+    400050: Steering Wheel
+    400052: Wheel Front Left
+    400054: Wheel Front Right
+    400056: Wheel Rear Left
+    400058: Wheel Rear Right
+    400060: Windscreen
+    400062: Wing Left
+    400064: Wing Right
+    400066: Wiper Left
+    400068: Wiper Right
+    2100000: body
+    2100002: plastic
+    2100004: mustang_misc__spec_
+    2100006: misc_body__spec_
+    2100008: Matte__FF0C0C0C__spec_
+    2100010: Matte__FFFF0000__spec_
+    2100012: undercarriage__spec_
+    2100014: Matte__FF0F0F0F__spec_
+    2100016: lights_lod0
+    2100018: vehiclelights128
+    2100020: vehiclelights128__RR_
+    2100022: resh__spec_
+    2100024: nodamage_lod0__spec_
+    2100026: Matte__FF1E1E1E__spec_
+    2100028: vehiclelights128__FR_
+    2100030: Matte__66666666__trans_
+    2100032: HL_Glass
+    2100034: Matte__FF676767__spec_
+    2100036: Matte__FF4D4D4D__spec_
+    2100038: plastic_black__spec_
+    2100040: plastic_black02
+    2100042: Matte__FF868686__spec_
+    2100044: leather__spec_
+    2100046: plastic_dash
+    2100048: cloth_brightgrey
+    2100050: interior_lod0__spec_
+    2100052: interior_emissive_lod0
+    2100054: digital_gauge
+    2100056: Matte__FF2D2D2D
+    2100058: interior_lod0__spec_trans_
+    2100060: Matte__51595959__trans_
+    2100062: Matte__FFCCCCCC__spec_
+    2100064: windshield
+    2100066: leather_stripey_black
+    2100068: vehiclelights__spec_
+    2100070: carpback__spec_
+    2100072: carplate__spec_
+    2100074: mustang_tyre
+    2100076: Matte__FFA0A0A0__spec_
+    2100078: Matte__FF0000FF__spec_
+    2300000: Badges
+    2300002: Body
+    2300004: Brake Front Left
+    2300006: Brake Front Right
+    2300008: Brake Lights
+    2300010: Brake Rear Left
+    2300012: Brake Rear Right
+    2300014: Bumper Front
+    2300016: Bumper Rear
+    2300018: Dashboard Dial Covers
+    2300020: Dashboard Dials
+    2300022: Dashboard Fuel Indicator
+    2300024: Dashboard RPM Meter Pointer
+    2300026: Dashboard Speedometer Pointer
+    2300028: Door Left
+    2300030: Door Right
+    2300032: Grill
+    2300034: Headlight Covers
+    2300036: Headlight Units
+    2300038: Headlights
+    2300040: Hood
+    2300042: Interior
+    2300044: Seats
+    2300046: Spoiler
+    2300048: Steering Wheel
+    2300050: Wheel Front Left
+    2300052: Wheel Front Right
+    2300054: Wheel Rear Left
+    2300056: Wheel Rear Right
+    2300058: Windscreen
+    2300060: Wing Left
+    2300062: Wing Right
+    2300064: Wiper Left
+    2300066: Wiper Right
+    3300000: Badges
+    3300002: Body
+    3300004: Brake Front Left
+    3300006: Brake Front Right
+    3300008: Brake Lights
+    3300010: Brake Rear Left
+    3300012: Brake Rear Right
+    3300014: Bumper Front
+    3300016: Bumper Rear
+    3300018: Dashboard Dial Covers
+    3300020: Dashboard Dials
+    3300022: Dashboard Fuel Indicator
+    3300024: Dashboard RPM Meter Pointer
+    3300026: Dashboard Speedometer Pointer
+    3300028: Door Left
+    3300030: Door Right
+    3300032: Grill
+    3300034: Headlight Covers
+    3300036: Headlight Units
+    3300038: Headlights
+    3300040: Hood
+    3300042: Interior
+    3300044: Seats
+    3300046: Spoiler
+    3300048: Steering Wheel
+    3300050: Wheel Front Left
+    3300052: Wheel Front Right
+    3300054: Wheel Rear Left
+    3300056: Wheel Rear Right
+    3300058: Windscreen
+    3300060: Wing Left
+    3300062: Wing Right
+    3300064: Wiper Left
+    3300066: Wiper Right
+    4300000: Body
+    4300002: Grill
+    4300004: Headlight Units
+    4300006: Headlights
+    4300008: Headlight Covers
+    4300010: Interior
+    4300012: Seats
+    4300014: Badges
+    4300016: Dashboard Dial Covers
+    4300018: Dashboard Dials
+    4300020: Hood
+    4300022: Spoiler
+    4300024: Brake Lights
+    4300026: Door Left
+    4300028: Door Right
+    4300030: Bumper Front
+    4300032: Bumper Rear
+    4300034: Wing Right
+    4300036: Wing Left
+    4300038: Windscreen
+    4300040: Steering Wheel
+    4300042: Wiper Right
+    4300044: Wiper Left
+    4300046: Dashboard Speedometer Pointer
+    4300048: Dashboard RPM Meter Pointer
+    4300050: Dashboard Fuel Indicator
+    4300052: Wheel Front Left
+    4300054: Wheel Front Right
+    4300056: Wheel Rear Left
+    4300058: Wheel Rear Right
+    4300060: Brake Front Right
+    4300062: Brake Front Left
+    4300064: Brake Rear Right
+    4300066: Brake Rear Left
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HL_Glass
+    second: {fileID: 2100000, guid: 2235bf2f950b7294d946927c03513b37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__51595959__trans_
+    second: {fileID: 2100000, guid: d1c2040d4617b494db7785759ec4cdb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__66666666__trans_
+    second: {fileID: 2100000, guid: 0ab7edac9eff57e40b3f86c137e2d0ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__FF0000FF__spec_
+    second: {fileID: 2100000, guid: 6cb769029051ebe468c91f6267ffc4b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__FF0C0C0C__spec_
+    second: {fileID: 2100000, guid: 4c85cf6cfede7d848a034c3ffc3876a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__FF0F0F0F__spec_
+    second: {fileID: 2100000, guid: 93fd290bf2c10b24f97069e27a1a6dd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__FF1E1E1E__spec_
+    second: {fileID: 2100000, guid: ca29ef93732588048af4377df9db8bae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__FF2D2D2D
+    second: {fileID: 2100000, guid: a52d0a8f49936a84f84d6e48c2996d60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__FF4D4D4D__spec_
+    second: {fileID: 2100000, guid: 2688b6a860cf869488f7d057fbe50616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__FF676767__spec_
+    second: {fileID: 2100000, guid: 6246a677e02eb3e45b4499bcdf1f0bbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__FF868686__spec_
+    second: {fileID: 2100000, guid: e8b9c55ff6bedf44ba2904ad51bc6fea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__FFA0A0A0__spec_
+    second: {fileID: 2100000, guid: f3be2b17bbe5e494687b02b95fd76686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__FFCCCCCC__spec_
+    second: {fileID: 2100000, guid: e5f3f0bc807df1c48ae2b24099e18ccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte__FFFF0000__spec_
+    second: {fileID: 2100000, guid: 3cb7699793ac7874eb158062b1213f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 95560100ab747fb468381d47627405ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpback__spec_
+    second: {fileID: 2100000, guid: fb27bd0d2ca92484e93ce54b457e06e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carplate__spec_
+    second: {fileID: 2100000, guid: 6818a5f97d255f34b90cb0781e148df9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cloth_brightgrey
+    second: {fileID: 2100000, guid: a39fc4dc9ba32fb4697191fcc4c8bfb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: digital_gauge
+    second: {fileID: 2100000, guid: cf10fc7a029ff74408f8868c2e502aac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_emissive_lod0
+    second: {fileID: 2100000, guid: 8a50aa818d8289247970dddc514a5df7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_lod0__spec_
+    second: {fileID: 2100000, guid: 270bae3cfad75ff409165aa714777246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_lod0__spec_trans_
+    second: {fileID: 2100000, guid: 270bae3cfad75ff409165aa714777246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leather__spec_
+    second: {fileID: 2100000, guid: 0632f7a828321c14d91e26c9216d5897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leather_stripey_black
+    second: {fileID: 2100000, guid: bee16220a8a9e8544bc612de943637eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights_lod0
+    second: {fileID: 2100000, guid: 0c020ac855b642c44a4b202c24a194f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_body__spec_
+    second: {fileID: 2100000, guid: 93132fa4ce5410247a8e3eaeeec4ada4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mustang_misc__spec_
+    second: {fileID: 2100000, guid: e33f104385af1df48be2b1c5deab5dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mustang_tyre
+    second: {fileID: 2100000, guid: e86f8634eef7a434cbb920151d52b698, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nodamage_lod0__spec_
+    second: {fileID: 2100000, guid: 8c0126c692a58fa4cbf787f2b3abd37a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic
+    second: {fileID: 2100000, guid: 7dfd2f96e61a4b248a26a318ca599114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_black02
+    second: {fileID: 2100000, guid: 15b162163b6759b449c464330dfb5fba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_black__spec_
+    second: {fileID: 2100000, guid: abe92a5ec07a63e42a895afdf359b94c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_dash
+    second: {fileID: 2100000, guid: 5b8695e8f51b1a140be099d9d0194c98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: resh__spec_
+    second: {fileID: 2100000, guid: f837d519d47b3ad47b8270b52303c9b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undercarriage__spec_
+    second: {fileID: 2100000, guid: 84089deb7cee3cc49b8e91e448218236, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehiclelights128
+    second: {fileID: 2100000, guid: 0c020ac855b642c44a4b202c24a194f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehiclelights128__FR_
+    second: {fileID: 2100000, guid: 0c020ac855b642c44a4b202c24a194f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehiclelights128__RR_
+    second: {fileID: 2100000, guid: 0c020ac855b642c44a4b202c24a194f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehiclelights__spec_
+    second: {fileID: 2100000, guid: 0c020ac855b642c44a4b202c24a194f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windshield
+    second: {fileID: 2100000, guid: f916cbc2b571cdf4f8b41d6646acb847, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
