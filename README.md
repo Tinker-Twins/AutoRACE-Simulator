@@ -1,2 +1,2 @@
-# AutoRACE_Simulator
+# AutoRACE Simulator
 A Simulation System for Implementing and Testing Autonomous Racing Algorithms
