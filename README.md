@@ -53,7 +53,7 @@
 
   - Launch Unity Hub and select `ADD` project button.
   
-  - Navigate to the Unity ML-Agents Repository directory and select the parent folder of this repository `AutoRACE_Simulator`.
+  - Navigate to the Unity ML-Agents Repository directory and select the parent folder of this repository `AutoRACE-Simulator`.
 
 ## USAGE
 
