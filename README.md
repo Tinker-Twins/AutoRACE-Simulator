@@ -48,7 +48,7 @@
   - Clone this repository:
   
     ```bash
-    $ git clone https://github.com/Tinker-Twins/AutoRACE_Simulator.git
+    $ git clone https://github.com/Tinker-Twins/AutoRACE-Simulator.git
     ```
 
   - Launch Unity Hub and select `ADD` project button.
