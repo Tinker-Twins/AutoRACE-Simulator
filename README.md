@@ -157,3 +157,18 @@ After defining your logic, test the functionality by selecting `Heuristic Only` 
 
 ## DEMO
 Implementation demonstrations are available on [YouTube](https://www.youtube.com/playlist?list=PLY45pkzWzH98HT0U8xq2j9OjybFDIaFN0).
+
+## CITATION
+
+We encourage you to cite the [following paper](https://arxiv.org/abs/2110.05437) if you use any part of this project for your research:
+
+```bibtex
+@eprint{AutoRACE-2021,
+      title={Autonomous Racing using a Hybrid Imitation-Reinforcement Learning Architecture}, 
+      author={Chinmay Vilas Samak and Tanmay Vilas Samak and Sivanathan Kandhasamy},
+      year={2021},
+      eprint={2110.05437},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
