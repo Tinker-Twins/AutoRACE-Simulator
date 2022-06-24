@@ -1,6 +1,9 @@
 # AutoRACE Simulator
 ### A Simulation System for Implementing and Testing Autonomous Racing Algorithms
 
+![Github Stars](https://badgen.net/github/stars/Tinker-Twins/AutoRACE-Simulator?icon=github&label=stars)
+![Github Forks](https://badgen.net/github/forks/Tinker-Twins/AutoRACE-Simulator?icon=github&label=forks)
+
 ![Title Image](AutoRACE_Simulator.png)
 
 ## SETUP
