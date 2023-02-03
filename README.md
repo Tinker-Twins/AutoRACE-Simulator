@@ -167,11 +167,13 @@ We encourage you to cite the [following paper](https://arxiv.org/abs/2110.05437)
 
 ```bibtex
 @eprint{AutoRACE-2021,
-      title={Autonomous Racing using a Hybrid Imitation-Reinforcement Learning Architecture}, 
-      author={Chinmay Vilas Samak and Tanmay Vilas Samak and Sivanathan Kandhasamy},
-      year={2021},
-      eprint={2110.05437},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+    doi = {10.48550/ARXIV.2110.05437},
+    url = {https://arxiv.org/abs/2110.05437},
+    author = {Samak, Chinmay Vilas and Samak, Tanmay Vilas and Kandhasamy, Sivanathan},
+    keywords = {Robotics (cs.RO), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), Neural and Evolutionary Computing (cs.NE), FOS: Computer and information sciences, FOS: Computer and information sciences},
+    title = {Autonomous Racing using a Hybrid Imitation-Reinforcement Learning Architecture},
+    publisher = {arXiv},
+    year = {2021},
+    copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
